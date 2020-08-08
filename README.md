@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Bash
 - 📫 How to reach me: [Connect] (https://www.linkedin.com/in/divyansh-chittranshi-1b2b7a24/)
 - ⚡ Fun fact: "Computer Science is no more about computers than astronomy is about telescopes."
-
+-->
 
 **Languages and Tools:** 
 
