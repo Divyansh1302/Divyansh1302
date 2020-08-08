@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-xml-file-document-icon-png-image_4187769.jpg"></code>
 <code><img height="20" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png"></code>
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/8_Premier_Pro_Adobe_logo_logos-512.png"></code>
-<code><img height="20" src="https://p1.hiclipart.com/preview/795/853/294/deviation-adobe-cs6-icon-pack-after-effects-png-icon.jpg"></code>
+<code><img height="20" src="https://i1.pngguru.com/preview/440/961/198/adobe-suite-for-macos-stacks-adobe-after-effects-icon-png-icon.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png"></code>
 
