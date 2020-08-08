@@ -32,3 +32,6 @@
 <code><img height="20" src="https://i1.pngguru.com/preview/440/961/198/adobe-suite-for-macos-stacks-adobe-after-effects-icon-png-icon.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png"></code>
 
+
+[![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=Divyansh1302)](https://github.com/Divyansh1302/github-readme-stats)
+
