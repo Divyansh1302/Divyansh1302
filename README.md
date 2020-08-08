@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 **Languages and Tools:** 
 
 <code><img height="20" src="https://reactjs.org/logo-og.png"></code>
-<code><img height="20" src="https://www.flaticon.com/free-icon/css_919826"></code>
-<code><img height="20" src="https://images.app.goo.gl/i9XVCGoc4ud8vSHX8"></code>
+<code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://i.redd.it/31b2ii8hchi31.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
