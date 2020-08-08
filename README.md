@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Bash
 - 📫 How to reach me: [Connect] (https://www.linkedin.com/in/divyansh-chittranshi-1b2b7a24/)
 - ⚡ Fun fact: "Computer Science is no more about computers than astronomy is about telescopes."
--->
+
 
 **Languages and Tools:** 
 
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://i.redd.it/31b2ii8hchi31.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-3/21/document-sql-512.png"></code>
