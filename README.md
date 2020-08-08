@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Bash
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/divyansh-chittranshi-1b2b7a24/)
 - ⚡ Fun fact: "Computer Science is no more about computers than astronomy is about telescopes."
--->
+
 
 **Languages and Tools:** 
 
@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/387/434/png-transparent-javaserver-pages-computer-icons-java-plum-text-logo-monochrome.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/387/434/png-transparent-javaserver-pages-computer-icons-java-plum-text-logo-monochrome.png"></code>
+<code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-xml-file-document-icon-png-image_4187769.jpg"></code>
+<code><img height="20" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png"></code>
 
