@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React, Python, HTML, CSS
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning a lot of things.
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/divyansh-chittranshi-1b2b7a24/)
 - ⚡ Fun fact: "Computer Science is no more about computers than astronomy is about telescopes."
 
@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://w7.pngwing.com/pngs/387/434/png-transparent-javaserver-pages-computer-icons-java-plum-text-logo-monochrome.png"></code>
 <code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-xml-file-document-icon-png-image_4187769.jpg"></code>
 <code><img height="20" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png"></code>
+<code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/8_Premier_Pro_Adobe_logo_logos-512.png"></code>
+<code><img height="20" src="https://p1.hiclipart.com/preview/795/853/294/deviation-adobe-cs6-icon-pack-after-effects-png-icon.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png"></code>
 
