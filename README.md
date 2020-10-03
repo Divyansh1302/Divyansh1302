@@ -31,7 +31,7 @@
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/8_Premier_Pro_Adobe_logo_logos-512.png"></code>
 <code><img height="20" src="https://i1.pngguru.com/preview/440/961/198/adobe-suite-for-macos-stacks-adobe-after-effects-icon-png-icon.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png"></code>
+<code><img height="20" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/34_Ai_Illustrator_Adobe_logo_logos-512.png"></code>
 
 
 [![Divyansh's github stats](https://github-readme-stats.vercel.app/api?username=Divyansh1302)](https://github.com/Divyansh1302/github-readme-stats)
