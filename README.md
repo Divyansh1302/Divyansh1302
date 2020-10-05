@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### I am Divyansh Chittranshi an Humble little Computer Science Engineer
+<code> <img src="https://camo.githubusercontent.com/bbbe8f3c3c04935f1b491bd463f783c88b991fbc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53724832646c4d6d4c7432716f78424e73542f67697068792e676966"></code>
 
 <!--
 **Divyansh1302/Divyansh1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
